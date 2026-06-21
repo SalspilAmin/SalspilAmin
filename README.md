@@ -2,7 +2,7 @@
 
 ### 🚀 Junior Backend .NET Developer
 
-🎓 Computer Engineering Graduate | Junior Backend .NET Developer From **Faculty of Engineering, Tanta University**
+🎓 Computer Engineering Graduate From **Faculty of Engineering, Tanta University**
 
 💡 Passionate about building scalable backend systems, designing clean architectures, and solving real-world problems through software.
 
