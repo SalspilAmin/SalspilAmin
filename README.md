@@ -102,8 +102,7 @@ A marketplace platform that enables users to:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SalspilAmin&show_icons=true&theme=tokyonight" />  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalspilAmin&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -121,9 +120,9 @@ A marketplace platform that enables users to:
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/salsabil-amin-8252a6251)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/SalspilAmin)
 
 ---
 
